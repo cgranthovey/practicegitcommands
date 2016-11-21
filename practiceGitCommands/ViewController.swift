@@ -14,6 +14,7 @@ class ViewController: UIViewController {
     
     var myNamy = "second change"
     
+    var mySister = "Laura"
     
     
     override func viewDidLoad() {
