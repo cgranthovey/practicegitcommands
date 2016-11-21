@@ -12,6 +12,8 @@ class ViewController: UIViewController {
 
     var a = "first commit"
     
+    var myNamy = "second change"
+    
     
     
     override func viewDidLoad() {
