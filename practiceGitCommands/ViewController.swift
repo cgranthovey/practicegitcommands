@@ -20,7 +20,8 @@ class ViewController: UIViewController {
     
     var myNanny = "McPhee"
     var nannyAge = 69
-    
+    var nannyHeight =  5.4
+
     
     override func viewDidLoad() {
         super.viewDidLoad()
