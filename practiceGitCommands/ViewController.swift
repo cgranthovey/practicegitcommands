@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     
     var mySister = "Laura"
     var sisterAge = 22
-    var sisterLoc = "London"
+    var sisterLoc = "London"g
     
     
     override func viewDidLoad() {
