@@ -19,6 +19,8 @@ class ViewController: UIViewController {
     var sisterLoc = "London"
     
     var myNanny = "McPhee"
+    var nannyAge = 69
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
